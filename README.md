@@ -1,6 +1,18 @@
 # 👋 ¡Hola! Bienvenido a mi GitHub
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/CeliFio#4769) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celina-fioretti)
-<br><br>Soy estudiante de **Licenciatura en Desarrollo de Aplicaciones Informáticas** y una apasionada por la tecnología.<br><br>### 🌱 Actualmente...<br>- Desarrollando aplicaciones web y móviles.<br>- Aprendiendo sobre diseño de software y buenas prácticas de programación.<br><br>### ✨ Otras actividades...<br>- 🎨 Pintura y renderizado digital: me gusta combinar creatividad con tecnología.<br>- 🐾 Pasar tiempo con mis perritos: ¡ellos son una gran compañía!<br>- <br>### 🚀 Metas<br>Mi objetivo es convertirme en una desarrolladora de software de tiempo completo, capaz de diseñar y construir soluciones innovadoras.<br> <br>¡Explora mis repositorios y proyectos! 😊<br>
+<br><br>Soy estudiante de **Licenciatura en Desarrollo de Aplicaciones Informáticas** y una apasionada por la tecnología.<br><br>
+### 🌱 Actualmente...<br>
+- Desarrollando aplicaciones web y móviles.<br>
+- Aprendiendo sobre diseño de software y buenas prácticas de programación.<br>
+
+### ✨ Otras actividades...<br>
+- 🎨 Pintura y renderizado digital: me gusta combinar creatividad con tecnología.<br>
+- 🐾 Pasar tiempo con mis perritos: ¡ellos son una gran compañía!<br>
+
+### 🚀 Metas<br>
+Mi objetivo es convertirme en una desarrolladora de software de tiempo completo, capaz de diseñar y construir soluciones innovadoras.<br> <br>
+
+¡Explora mis repositorios y proyectos! 😊<br>
 
 
 # 💻 Tecnologías:
