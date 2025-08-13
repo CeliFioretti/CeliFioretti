@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="background-color:#f0f0f0; padding:10px; border-radius:8px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
