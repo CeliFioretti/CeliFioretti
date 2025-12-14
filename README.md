@@ -1,3 +1,19 @@
+# 👋 ¡Hola! Bienvenido a mi GitHub
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/778703131978366976) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celina-fioretti)
+<br><br>Soy estudiante de **Licenciatura en Desarrollo de Aplicaciones Informáticas** y una apasionada por la tecnología.<br>
+### 🌱 Actualmente...<br>
+- Desarrollando aplicaciones web y móviles.<br>
+- Aprendiendo sobre diseño de software y buenas prácticas de programación.<br>
+
+### ✨ Otras actividades...<br>
+- 🎨 Pintura y renderizado digital: me gusta combinar creatividad con tecnología.<br>
+- 🐾 Pasar tiempo con mis perritos: ¡ellos son una gran compañía!<br>
+
+### 🚀 Metas<br>
+Mi objetivo es convertirme en una desarrolladora de software de tiempo completo, capaz de diseñar y construir soluciones innovadoras.<br> <br>
+
+¡Explora mis repositorios y proyectos! 😊<br>
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -56,7 +72,6 @@
 
 ###
 
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CeliFioretti&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=CeliFioretti&radius=16&theme=nightowl&area=true&order=5&hide_border=true&hide_title=false&custom_title=Mis%20contribuciones" height="300" alt="activity-graph graph"  />
@@ -64,21 +79,3 @@
 
 ###
 
-# 👋 ¡Hola! Bienvenido a mi GitHub
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/778703131978366976) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/celina-fioretti)
-<br><br>Soy estudiante de **Licenciatura en Desarrollo de Aplicaciones Informáticas** y una apasionada por la tecnología.<br>
-### 🌱 Actualmente...<br>
-- Desarrollando aplicaciones web y móviles.<br>
-- Aprendiendo sobre diseño de software y buenas prácticas de programación.<br>
-
-### ✨ Otras actividades...<br>
-- 🎨 Pintura y renderizado digital: me gusta combinar creatividad con tecnología.<br>
-- 🐾 Pasar tiempo con mis perritos: ¡ellos son una gran compañía!<br>
-
-### 🚀 Metas<br>
-Mi objetivo es convertirme en una desarrolladora de software de tiempo completo, capaz de diseñar y construir soluciones innovadoras.<br> <br>
-
-¡Explora mis repositorios y proyectos! 😊<br>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
